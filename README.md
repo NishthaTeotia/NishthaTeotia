@@ -37,62 +37,63 @@
 
 <p align="center">
 
-  <span style="display: inline-flex; align-items: center; margin: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
-    <span style="font-size: 16px; font-weight: bold; margin-left: 8px;">Java</span>
+  <span style="display: inline-block; text-align: center; margin: 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+    <div style="font-size: 14px; font-weight: bold; color: #333;">Java</div>
   </span>
 
-  <span style="display: inline-flex; align-items: center; margin: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
-    <span style="font-size: 16px; font-weight: bold; margin-left: 8px;">JavaScript</span>
+  <span style="display: inline-block; text-align: center; margin: 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+    <div style="font-size: 14px; font-weight: bold; color: #333;">JavaScript</div>
   </span>
 
-  <span style="display: inline-flex; align-items: center; margin: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
-    <span style="font-size: 16px; font-weight: bold; margin-left: 8px;">HTML5</span>
+  <span style="display: inline-block; text-align: center; margin: 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+    <div style="font-size: 14px; font-weight: bold; color: #333;">HTML5</div>
   </span>
 
-  <span style="display: inline-flex; align-items: center; margin: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
-    <span style="font-size: 16px; font-weight: bold; margin-left: 8px;">CSS3</span>
+  <span style="display: inline-block; text-align: center; margin: 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+    <div style="font-size: 14px; font-weight: bold; color: #333;">CSS3</div>
   </span>
 
-  <span style="display: inline-flex; align-items: center; margin: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
-    <span style="font-size: 16px; font-weight: bold; margin-left: 8px;">ReactJS</span>
+  <span style="display: inline-block; text-align: center; margin: 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+    <div style="font-size: 14px; font-weight: bold; color: #333;">ReactJS</div>
   </span>
 
-  <span style="display: inline-flex; align-items: center; margin: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
-    <span style="font-size: 16px; font-weight: bold; margin-left: 8px;">Node.js</span>
+  <span style="display: inline-block; text-align: center; margin: 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+    <div style="font-size: 14px; font-weight: bold; color: #333;">Node.js</div>
   </span>
 
-  <span style="display: inline-flex; align-items: center; margin: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" />
-    <span style="font-size: 16px; font-weight: bold; margin-left: 8px;">MongoDB</span>
+  <span style="display: inline-block; text-align: center; margin: 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+    <div style="font-size: 14px; font-weight: bold; color: #333;">MongoDB</div>
   </span>
 
-  <span style="display: inline-flex; align-items: center; margin: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
-    <span style="font-size: 16px; font-weight: bold; margin-left: 8px;">SQL</span>
+  <span style="display: inline-block; text-align: center; margin: 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+    <div style="font-size: 14px; font-weight: bold; color: #333;">SQL</div>
   </span>
 
-  <span style="display: inline-flex; align-items: center; margin: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
-    <span style="font-size: 16px; font-weight: bold; margin-left: 8px;">Git</span>
+  <span style="display: inline-block; text-align: center; margin: 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+    <div style="font-size: 14px; font-weight: bold; color: #333;">Git</div>
   </span>
 
-  <span style="display: inline-flex; align-items: center; margin: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
-    <span style="font-size: 16px; font-weight: bold; margin-left: 8px;">GitHub</span>
+  <span style="display: inline-block; text-align: center; margin: 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+    <div style="font-size: 14px; font-weight: bold; color: #333;">GitHub</div>
   </span>
 
-  <span style="display: inline-flex; align-items: center; margin: 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />
-    <span style="font-size: 16px; font-weight: bold; margin-left: 8px;">VS Code</span>
+  <span style="display: inline-block; text-align: center; margin: 16px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+    <div style="font-size: 14px; font-weight: bold; color: #333;">VS Code</div>
   </span>
 
 </p>
+
 
 
 
