@@ -4,14 +4,14 @@
 </h1>
 
 <p align="center">
-  <em>Full Stack Developer|Problem Solver</em>
+  <em>Full Stack Web Developer|Problem Solver</em>
 </p>
 
 ---
 
 ## 🧠 About Me
 
--👋 I'm a full-stack developer who loves turning ideas into functional and elegant web experiences
+-👋 I'm a full-stack web developer who loves turning ideas into functional and elegant web experiences
 
 -📚 I’m always exploring new tools and technologies — staying curious keeps me motivated
 
@@ -20,7 +20,7 @@
 -🚀 I care about building apps that are not just scalable, but also meaningful to users
 
 -How to reach me-
-📧 Mail:nishthateotia@gmail.com
+📧 Mail:nishthateotia1805@gmail.com
 ---
 
 ## 📫 Connect with Me
